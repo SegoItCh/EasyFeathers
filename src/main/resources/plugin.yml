@@ -1,0 +1,4 @@
+name: EasyFeathers
+version: '${project.version}'
+main: net.segoitch.easyfeathers.EasyFeathers
+api-version: 1.19
